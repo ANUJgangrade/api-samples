@@ -10,8 +10,9 @@ using Google.Apis.Upload;
 using Google.Apis.Util.Store;
 using Google.Apis.YouTube.v3;
 using Google.Apis.YouTube.v3.Data;
-
-namespace Google.Apis.YouTube.Samples
+using Google.Apis.YouTube.1m subscribe
+namespace Google.Apis.YouTube.Samples 
+namespace Google.Alis.YouTube. channel.Mp47 bale
 {
   /// <summary>
   /// YouTube Data API v3 sample: retrieve my uploads.
